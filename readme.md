@@ -303,6 +303,8 @@ Key stats:
 
 - **[Augment Code](https://www.augmentcode.com/)** — The first AI coding assistant to achieve ISO/IEC 42001 certification for AI management systems.
 
+- **[Manifest API Bot](https://manifest.build/api-bot/)** — GitHub App that finds the third-party APIs a repository calls and checks them for changes every day. When an API change affects the code, it uses an LLM to write the fix and opens a pull request with it. Free to start.
+
 ---
 
 ## 🔌 MCP (Model Context Protocol)
